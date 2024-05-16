@@ -1,0 +1,427 @@
+Date,Hours_After_Hatch,Experiment,Observer,Species,Strain,unique_plate_id,Plate,Plate_type,Embryos,L1_L3,L4,Adults,Gravid_Adults,Total_adults,Derivation,Notations
+3/7/23,24,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,262,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,262,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,176,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,190,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,131,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,125,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,186,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,637,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,223,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,224,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,117,,,,,L1_Synchronization,
+3/7/23,24,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,128,,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,257,,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,259,1,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,38,107,22,12,34,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,44,132,15,8,23,L1_Synchronization,
+3/8/23,48,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,226,,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,183,,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,79,103,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,123,506,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,48,167,6,,6,L1_Synchronization,
+3/8/23,48,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,53,170,3,,3,L1_Synchronization,
+3/8/23,48,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,142,,,,,L1_Synchronization,
+3/8/23,48,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,152,,,,,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,56,178,23,,23,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,117,130,2,,2,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,16,12,0,150,150,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,8,18,232,141,373,L1_Synchronization,
+3/9/23,72,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,172,47,,,,L1_Synchronization,
+3/9/23,72,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,161,12,,,,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,42,46,81,12,93,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,62,112,55,100,155,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,3,8,13,196,209,L1_Synchronization,
+3/9/23,72,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,0,16,18,195,213,L1_Synchronization,
+3/9/23,72,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,119,21,,,,L1_Synchronization,
+3/9/23,72,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,120,18,4,,4,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,2,36,182,23,205,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,0,67,180,3,183,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,0,4,20,154,174,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,0,2,12,161,173,L1_Synchronization,
+3/10/23,96,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,67,123,32,,32,L1_Synchronization,
+3/10/23,96,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,83,61,29,,29,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,0,12,36,189,225,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,0,32,219,302,521,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,0,0,0,216,216,L1_Synchronization,
+3/10/23,96,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,0,0,8,212,220,L1_Synchronization,
+3/10/23,96,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,41,93,18,,18,L1_Synchronization,
+3/10/23,96,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,48,72,22,,22,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,0,0,6,176,182,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,0,0,15,150,165,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,0,0,0,139,139,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,0,0,0,162,162,L1_Synchronization,
+3/12/23,144,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,0,36,131,13,144,L1_Synchronization,
+3/12/23,144,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,0,40,116,14,130,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,0,0,0,310,310,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,0,0,0,312,312,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,0,0,0,181,181,L1_Synchronization,
+3/12/23,144,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,0,0,0,146,146,L1_Synchronization,
+3/12/23,144,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,0,21,103,9,112,L1_Synchronization,
+3/12/23,144,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,0,27,91,15,106,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,0,0,0,179,179,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,0,0,0,158,158,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,0,0,0,130,130,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,0,0,0,158,158,L1_Synchronization,
+3/13/23,168,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,0,18,127,22,149,L1_Synchronization,
+3/13/23,168,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,0,17,126,28,154,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,0,0,0,310,310,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,0,0,0,262,262,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,0,0,0,179,179,L1_Synchronization,
+3/13/23,168,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,0,0,0,144,144,L1_Synchronization,
+3/13/23,168,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,0,6,117,16,133,L1_Synchronization,
+3/13/23,168,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,0,18,110,26,136,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,0,0,0,172,172,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,0,0,0,156,156,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,0,0,0,128,128,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,0,0,0,132,132,L1_Synchronization,
+3/14/23,192,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,0,16,108,41,149,L1_Synchronization,
+3/14/23,192,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,0,10,104,67,171,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,0,0,0,308,308,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,0,0,0,255,255,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,0,0,0,172,172,L1_Synchronization,
+3/14/23,192,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,0,0,0,142,142,L1_Synchronization,
+3/14/23,192,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,0,5,104,30,134,L1_Synchronization,
+3/14/23,192,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,0,10,92,32,124,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,MQ130,1,NGM_A,NGM,,0,0,0,172,172,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,MQ130,2,NGM_B,NGM,,0,0,0,156,156,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,PD1074,3,NGM_A,NGM,,0,0,0,128,128,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,PD1074,4,NGM_B,NGM,,0,0,0,132,132,L1_Synchronization,
+3/15/23,216,A,Kim,C. inopinata,NKZ35,5,NGM_A,NGM,,0,0,48,76,124,L1_Synchronization,
+3/15/23,216,A,Kim,C. inopinata,NKZ35,6,NGM_B,NGM,,0,0,63,82,145,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,MQ130,7,"2,4-DHB_A",2-4_DHB,,0,0,0,308,308,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,MQ130,8,"2,4-DHB_B",2-4_DHB,,0,0,0,255,255,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,PD1074,9,"2,4-DHB_A",2-4_DHB,,0,0,0,172,172,L1_Synchronization,
+3/15/23,216,A,Kim,C. elegans,PD1074,10,"2,4-DHB_B",2-4_DHB,,0,0,0,142,142,L1_Synchronization,
+3/15/23,216,A,Kim,C. inopinata,NKZ35,11,"2,4-DHB_A",2-4_DHB,,0,0,73,68,141,L1_Synchronization,
+3/15/23,216,A,Kim,C. inopinata,NKZ35,12,"2,4-DHB_B",2-4_DHB,,0,0,54,72,126,L1_Synchronization,
+3/22/23,0,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,76,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,76,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,136,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,86,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,67,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,53,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,82,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,76,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,97,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,86,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,47,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,75,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,57,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,62,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,59,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,90,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,72,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,54,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,72,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,94,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,80,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,83,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,86,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,91,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,89,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,52,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,78,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,55,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,49,,,,,,Egg_Lay,
+3/22/23,0,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,57,,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,42,53,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,18,73,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,45,74,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,25,54,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,17,57,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,3,54,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,8,73,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,7,69,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,3,89,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,2,86,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,13,29,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,25,52,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,16,33,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,18,39,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,33,35,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,16,73,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,25,52,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,11,57,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,30,49,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,32,66,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,77,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,5,76,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,3,84,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,4,44,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,2,88,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,16,31,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,44,34,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,31,24,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,24,20,,,,,Egg_Lay,
+3/23/23,16,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,29,22,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,0,95,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,0,124,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,0,119,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,0,78,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,0,103,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,0,54,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,0,81,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,0,84,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,0,90,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,0,88,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,6,37,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,4,39,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,5,33,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,13,44,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,18,48,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,0,89,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,0,76,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,0,58,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,0,57,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,0,82,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,77,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,0,82,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,0,52,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,0,56,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,0,84,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,6,42,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,9,49,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,10,41,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,15,33,,,,,Egg_Lay,
+3/24/23,40,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,4,36,,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,0,72,20,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,0,47,54,3,,3,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,0,58,53,6,,6,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,0,30,36,12,,12,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,0,31,43,29,,29,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,0,0,28,26,,26,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,0,10,17,41,3,44,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,0,2,6,76,,76,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,0,2,21,67,,67,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,0,1,10,77,,77,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,0,42,,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,0,43,,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,0,30,,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,10,33,1,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,0,43,,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,0,16,37,36,,36,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,0,5,34,37,,37,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,0,13,29,16,,16,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,0,8,36,13,,13,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,0,21,23,38,,38,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,0,12,65,,65,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,0,1,8,73,,73,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,0,1,13,38,,38,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,0,0,16,37,2,39,Egg_Lay,
+3/25/23,64,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,0,0,12,62,,62,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,0,31,11,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,0,22,24,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,0,24,19,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,6,33,3,,,,Egg_Lay,
+3/25/23,64,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,4,30,4,,,,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,0,12,58,19,,19,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,0,18,45,41,,41,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,0,31,22,33,,33,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,0,23,31,24,,24,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,0,22,45,36,,36,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,0,0,12,29,13,42,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,0,0,8,32,38,70,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,0,0,15,30,39,69,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,0,0,8,17,63,80,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,0,0,4,28,42,70,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,0,38,4,,,,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,0,32,3,,,,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,0,27,1,,,,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,0,22,6,,,,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,0,39,4,,,,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,0,3,12,36,38,74,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,0,5,16,13,42,55,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,0,5,28,13,12,25,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,0,4,13,26,14,40,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,0,13,22,35,12,47,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,0,1,5,48,53,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,0,0,1,23,58,81,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,0,0,4,16,32,48,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,0,0,1,20,34,54,Egg_Lay,
+3/26/23,88,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,0,0,3,20,51,71,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,0,8,22,12,,12,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,0,12,20,14,,14,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,0,12,23,8,,8,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,0,17,14,5,,5,Egg_Lay,
+3/26/23,88,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,0,13,18,7,,7,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,0,0,1,94,,94,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,0,0,1,110,,110,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,0,0,0,136,,136,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,0,0,0,82,,82,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,0,0,1,104,,104,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,0,0,0,35,,35,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,0,0,0,54,,54,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,0,0,0,60,,60,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,0,0,0,68,,68,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,0,0,0,67,,67,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,0,1,7,20,,20,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,0,0,1,14,,14,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,0,2,1,17,,17,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,0,0,6,16,,16,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,0,2,7,18,,18,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,0,0,0,75,,75,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,0,0,0,70,,70,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,0,0,0,45,,45,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,0,0,0,55,,55,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,0,0,0,68,,68,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,0,0,49,,49,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,0,0,0,91,,91,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,0,0,0,47,,47,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,0,0,0,53,,53,Egg_Lay,
+3/27/23,120,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,0,0,0,62,,62,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,0,1,3,14,,14,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,0,1,3,39,,39,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,0,1,6,19,,19,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,0,0,6,12,,12,Egg_Lay,
+3/27/23,120,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,0,9,8,16,,16,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,0,0,0,99,,99,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,0,0,0,117,,117,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,0,0,0,136,,136,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,0,0,0,82,,82,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,0,0,0,105,,105,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,0,0,0,35,,35,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,0,0,0,54,,54,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,0,0,0,60,,60,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,0,0,0,68,,68,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,0,0,0,67,,67,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,0,0,1,29,,29,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,0,0,0,21,,21,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,0,0,0,16,,16,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,0,0,0,21,,21,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,0,1,0,24,,24,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,0,0,0,75,,75,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,0,0,0,70,,70,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,0,0,0,45,,45,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,0,0,0,55,,55,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,0,0,0,68,,68,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,0,0,49,,49,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,0,0,0,91,,91,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,0,0,0,47,,47,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,0,0,0,53,,53,Egg_Lay,
+3/28/23,144,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,0,0,0,62,,62,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,0,1,1,25,,25,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,0,0,0,41,,41,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,0,0,1,27,,27,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,0,0,0,14,,14,Egg_Lay,
+3/28/23,144,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,0,0,0,25,,25,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,13,NGM_A,NGM,0,0,0,99,,99,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,14,NGM_B,NGM,0,0,0,117,,117,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,15,NGM_C,NGM,0,0,0,136,,136,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,16,NGM_D,NGM,0,0,0,82,,82,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,17,NGM_E,NGM,0,0,0,105,,105,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,18,NGM_A,NGM,0,0,0,35,,35,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,19,NGM_B,NGM,0,0,0,54,,54,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,20,NGM_C,NGM,0,0,0,60,,60,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,21,NGM_D,NGM,0,0,0,68,,68,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,22,NGM_E,NGM,0,0,0,67,,67,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,23,NGM_A,NGM,0,0,0,14,15,29,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,24,NGM_B,NGM,0,0,0,7,14,21,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,25,NGM_C,NGM,0,0,0,3,13,16,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,26,NGM_D,NGM,0,0,0,6,15,21,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,27,NGM_E,NGM,0,0,0,16,15,31,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,28,"2,4-DHB_A",2-4_DHB,0,0,0,75,,75,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,29,"2,4-DHB_B",2-4_DHB,0,0,0,70,,70,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,30,"2,4-DHB_C",2-4_DHB,0,0,0,45,,45,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,31,"2,4-DHB_D",2-4_DHB,0,0,0,55,,55,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,MQ130,32,"2,4-DHB_E",2-4_DHB,0,0,0,68,,68,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,33,"2,4-DHB_A",2-4_DHB,0,0,0,49,,49,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,34,"2,4-DHB_B",2-4_DHB,0,0,0,91,,91,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,35,"2,4-DHB_C",2-4_DHB,0,0,0,47,,47,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,36,"2,4-DHB_D",2-4_DHB,0,0,0,53,,53,Egg_Lay,
+3/29/23,160,B,Kim,C. elegans,PD1074,37,"2,4-DHB_E",2-4_DHB,0,0,0,62,,62,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,38,"2,4-DHB_A",2-4_DHB,0,0,0,8,17,25,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,39,"2,4-DHB_B",2-4_DHB,0,0,0,12,29,41,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,40,"2,4-DHB_C",2-4_DHB,0,0,0,8,19,27,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,41,"2,4-DHB_D",2-4_DHB,0,0,0,4,10,14,Egg_Lay,
+3/29/23,160,B,Kim,C. inopinata,NKZ35,42,"2,4-DHB_E",2-4_DHB,0,0,0,9,15,24,Egg_Lay,
+03/02/23,0,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,125,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,152,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,72,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,88,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,61,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,100,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,99,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,84,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,89,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/02/23,0,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,131,,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,102,23,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,131,21,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,55,17,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,78,10,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,27,34,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,49,51,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,53,46,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,43,41,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,89,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/03/23,24,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,6,125,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,5,134,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,2,139,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,5,70,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,71,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,93,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,105,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,92,4,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,76,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,139,1,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/04/23,48,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,141,1,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,1,122,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,0,152,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,0,67,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,73,,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,76,9,2,,2,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,87,14,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,5,77,16,,16,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,10,72,4,,4,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,1,19,124,,124,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/05/23,72,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,0,14,136,,136,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,0,111,27,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,0,118,28,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,0,58,13,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,64,6,,,,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,0,104,51,,51,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,0,41,41,,41,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,0,1,103,,103,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,0,1,90,,90,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,0,0,134,,134,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/06/23,96,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,0,0,137,,137,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,0,32,80,10,,10,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,0,10,127,8,,8,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,0,4,58,6,,6,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,7,68,4,,4,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,0,0,92,,92,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,0,0,103,,103,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,0,0,100,,100,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,0,0,82,,82,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,0,0,134,,134,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/07/23,120,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,0,0,137,,137,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,0,6,27,90,,90,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,0,1,17,112,,112,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,0,2,4,70,,70,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,1,6,69,,69,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,0,0,92,,92,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,0,0,103,,103,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,0,0,100,,100,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,0,0,82,,82,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,0,0,134,,134,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/08/23,144,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,0,0,137,,137,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,0,0,5,116,,116,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,0,0,1,121,,121,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,0,0,1,70,,70,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,0,0,80,,80,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,0,0,92,,92,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,0,0,103,,103,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,0,0,100,,100,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,0,0,82,,82,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,0,0,134,,134,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/09/23,160,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,0,0,137,,137,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. inopinata,NKZ35,43,NGM_A,NGM,0,0,1,85,,85,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. inopinata,NKZ35,44,NGM_B,NGM,0,0,1,144,,144,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. inopinata,NKZ35,45,"2,4-DHB_A",2-4_DHB,0,0,1,76,,76,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. inopinata,NKZ35,46,"2,4-DHB_B",2-4_DHB,0,0,0,80,,80,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. elegans,MQ130,47,NGM_A,NGM,0,0,0,92,,92,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. elegans,MQ130,48,NGM_B,NGM,0,0,0,103,,103,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. elegans,MQ130,49,"2,4-DHB_A",2-4_DHB,0,0,0,100,,100,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. elegans,MQ130,50,"2,4-DHB_B",2-4_DHB,0,0,0,82,,82,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. elegans,PD1074,51,NGM_A,NGM,0,0,0,134,,134,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
+03/10/23,184,C,Gavin,C. elegans,PD1074,52,"2,4-DHB_A",2-4_DHB,0,0,0,137,,137,Egg_Lay,Gavin’s Data Notebook 2 pp 53-55
